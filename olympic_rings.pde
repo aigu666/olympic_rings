@@ -1,4 +1,3 @@
-// add olympic rings code here
 size(300,300);
 
 background(224,224,224);
@@ -27,5 +26,3 @@ noFill();
 strokeWeight(7);
 stroke(0,255,0);
 ellipse(200,145,80,80);
-//save function
-save("AIDAN Gu.OlympicRings.Drawing.png");
